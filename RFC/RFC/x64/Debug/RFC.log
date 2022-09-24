@@ -1,0 +1,3 @@
+﻿  RFC.cpp
+C:\Users\PC\source\repos\RFC\RFC\RFC.cpp(8,7): warning C4101: 'letra': variable local sin referencia
+  RFC.vcxproj -> C:\Users\PC\source\repos\RFC\x64\Debug\RFC.exe
